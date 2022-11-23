@@ -8,7 +8,9 @@
 
 ### Screenshoots
 
+![Build process with Maven](https://github.com/lyngo-ntkl/youtube-view-bot/blob/main/screenshot/build-process-with-maven.png)
 
+![Run application](https://github.com/lyngo-ntkl/youtube-view-bot/blob/main/screenshot/run-application.png)
 
 #### Connect me via lyngo.ntkl@gmail.com
 
